@@ -5,7 +5,7 @@ Steps:
 1. Clone this application from github.
 2. cd to foobar.
 3. Assuming you have already installed ruby and gem. 
-4. Execute command `ruby foobar`
+4. Execute command `ruby foobar.rb`
 5. To run test cases, please follow below mentioned commands:
     - gem install rspec
     - rspec
